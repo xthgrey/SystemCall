@@ -1,4 +1,4 @@
-package com.xth.systemcall.utils;
+package com.xth.systemcall.hardware;
 
 import android.view.MotionEvent;
 
